@@ -1,0 +1,3 @@
+# CodeWars Solutions
+
+I decided to make a repo with my solutions to various CodeWars Kata ... check the `src` folder for solutions by language ...
