@@ -2,8 +2,12 @@
 
 ![CodeWars Profile Badge](https://www.codewars.com/users/domwake/badges/large)
 
-I decided to make a repo with my solutions to various CodeWars Kata.
+My solutions to CodeWars Kata. Solutions in:
 
-Solutions in:
-* [Javascript](/src/javascript/README.md)
-* [Swift](/src/swift/README.md)
+## ![Javascript logo](https://img.icons8.com/color/24/000000/javascript.png) [Javascript](/src/javascript/README.md)
+
+## ![Python logo](https://img.icons8.com/color/24/000000/python.png) [Python](/src/python/README.md)
+
+## ![Swift logo](https://img.icons8.com/fluent/24/000000/swift.png) [Swift](/src/swift/README.md)
+
+*Icons by [Icons8](https://icons8.com/)*
