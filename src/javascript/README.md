@@ -7,8 +7,11 @@
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
 | 5 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e) | [basic_denico.js](/src/javascript/5kyu/basic_denico.js) |
+| 6 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [duplicate_encoder.js](/src/javascript/6kyu/duplicate_encoder.js) |
 | 6 | [Message from Aliens](https://www.codewars.com/kata/598980a41e55117d93000015) | [message_from_aliens.js](/src/javascript/6kyu/message_from_aliens.js) |
+| 6 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [replace_with_alphabet_position.js](/src/javascript/6kyu/replace_with_alphabet_position.js) |
 | 6 | [Tortoise Racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) | [tortoise_racing.js](/src/javascript/6kyu/tortoise_racing.js) |
+| 6 | [TV Remote (Shift & Space)](https://www.codewars.com/kata/5b277e94b6989dd1d9000009) | [tv_remote_shift_space.js](/src/javascript/6kyu/tv_remote_shift_space.js) |
 | 7 | [TV Remote](https://www.codewars.com/kata/5a5032f4fd56cb958e00007a) | [tv_remote.js](/src/javascript/7kyu/tv_remote.js) |
 
 <br />
