@@ -10,4 +10,6 @@ My solutions to CodeWars Kata. Solutions in:
 
 ## ![Swift logo](https://img.icons8.com/fluent/24/000000/swift.png) [Swift](/src/swift/README.md)
 
+## ![Golang logo](https://img.icons8.com/color/24/000000/golang.png) [Go](/src/go/README.md)
+
 *Icons by [Icons8](https://icons8.com/)*
