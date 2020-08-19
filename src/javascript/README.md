@@ -12,6 +12,9 @@
 | 6 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [replace_with_alphabet_position.js](/src/javascript/6kyu/replace_with_alphabet_position.js) |
 | 6 | [Tortoise Racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) | [tortoise_racing.js](/src/javascript/6kyu/tortoise_racing.js) |
 | 6 | [TV Remote (Shift & Space)](https://www.codewars.com/kata/5b277e94b6989dd1d9000009) | [tv_remote_shift_space.js](/src/javascript/6kyu/tv_remote_shift_space.js) |
+| 6 | [TV Remote (Wrap)](https://www.codewars.com/kata/5b2c2c95b6989da552000120) | [tv_remote_wrap.js](/src/javascript/6kyu/tv_remote_wrap.js) |
+| 7 | [Thinking & Testing: A and B?](https://www.codewars.com/kata/56d904db9963e9cf5000037d) | [thinking_testing_a_and_b.js](/src/javascript/7kyu/thinking_testing_a_and_b.js) |
+| 7 | [Thinking & Testing: Incomplete String](https://www.codewars.com/kata/56d9292cc11bcc3629000533) | [thinking_testing_incomplete.js](/src/javascript/7kyu/thinking_testing_incomplete.js) |
 | 7 | [TV Remote](https://www.codewars.com/kata/5a5032f4fd56cb958e00007a) | [tv_remote.js](/src/javascript/7kyu/tv_remote.js) |
 
 <br />
