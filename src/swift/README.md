@@ -1,6 +1,6 @@
 # CodeWars Solutions - Swift
 
-![CodeWars Profile Badge](https://www.codewars.com/users/domwake/badges/small)
+![CodeWars Profile Badge](https://www.codewars.com/users/domwake/badges/large)
 
 ![Python logo](https://img.icons8.com/color/48/000000/swift.png)
 

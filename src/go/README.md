@@ -1,6 +1,6 @@
 # CodeWars Solutions - Go
 
-![CodeWars Profile Badge](https://www.codewars.com/users/domwake/badges/small)
+![CodeWars Profile Badge](https://www.codewars.com/users/domwake/badges/large)
 
 ![Golang logo](https://img.icons8.com/color/48/000000/golang.png)
 
