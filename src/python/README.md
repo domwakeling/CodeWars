@@ -1,12 +1,15 @@
 # CodeWars Solutions - Python
 
-![CodeWars Profile Badge](https://www.codewars.com/users/domwake/badges/small)
+![CodeWars Profile Badge](https://www.codewars.com/users/domwake/badges/large)
 
 ![Python logo](https://img.icons8.com/color/48/000000/python.png)
 
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 5 | [Mixbonacci](https://www.codewars.com/kata/5811aef3acdf4dab5e000251) | [mixbonacci.py](/src/python/5kyu/mixbonacci.py) |
 | 6 | [HTML Element Generator](https://www.codewars.com/kata/5e7837d0262211001ecf04d7) | [html_element_generator.py](/src/python/6kyu/html_element_generator.py) |
+| 6 | [String Letter Counting](https://www.codewars.com/kata/59e19a747905df23cb000024) | [string_letter_counting.py](/src/python/6kyu/string_letter_counting.py) |
+| 6 | [Sum of Digits/Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [sum_of_digits.py](/src/python/6kyu/sum_of_digits.py) |
 
 <br />
 
