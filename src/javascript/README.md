@@ -6,6 +6,7 @@
 
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 4 | [Magnet Particles In Boxes](https://www.codewars.com/kata/56c04261c3fcf33f2d000534) | [magnet_particles.js](/src/javascript/4kyu/magnet_particles.js) |
 | 4 | [Most Frequent Used Words In A Text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | [most_frequent_used_words.js](/src/javascript/4kyu/most_frequent_used_words.js) |
 | 4 | [Next Biggest Number With Same Digits](https://www.codewars.com/kata/55983863da40caa2c900004e) | [next_biggest_number.js](/src/javascript/4kyu/next_biggest_number.js) |
 | 5 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e) | [basic_denico.js](/src/javascript/5kyu/basic_denico.js) |
@@ -14,6 +15,7 @@
 | 6 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [duplicate_encoder.js](/src/javascript/6kyu/duplicate_encoder.js) |
 | 6 | [Message from Aliens](https://www.codewars.com/kata/598980a41e55117d93000015) | [message_from_aliens.js](/src/javascript/6kyu/message_from_aliens.js) |
 | 6 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [replace_with_alphabet_position.js](/src/javascript/6kyu/replace_with_alphabet_position.js) |
+| 6 | [Supermarket Queue Solution](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [supermarket_queue.js](/src/javascript/6kyu/supermarket_queue.js) |
 | 6 | [Thinking & Testing: A * B](https://www.codewars.com/kata/5a90c9ecb171012b47000077) | [thinking_testing_a_times_b.js](/src/javascript/6kyu/thinking_testing_a_times_b.js) |
 | 6 | [Tortoise Racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) | [tortoise_racing.js](/src/javascript/6kyu/tortoise_racing.js) |
 | 6 | [TV Remote (Shift & Space)](https://www.codewars.com/kata/5b277e94b6989dd1d9000009) | [tv_remote_shift_space.js](/src/javascript/6kyu/tv_remote_shift_space.js) |
