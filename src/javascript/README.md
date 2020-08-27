@@ -10,10 +10,12 @@
 | 4 | [Most Frequent Used Words In A Text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | [most_frequent_used_words.js](/src/javascript/4kyu/most_frequent_used_words.js) |
 | 4 | [Next Biggest Number With Same Digits](https://www.codewars.com/kata/55983863da40caa2c900004e) | [next_biggest_number.js](/src/javascript/4kyu/next_biggest_number.js) |
 | 5 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e) | [basic_denico.js](/src/javascript/5kyu/basic_denico.js) |
+| 5 | [Interlaced Spiral Cypher](https://www.codewars.com/kata/5a24a35a837545ab04001614) | [interlaced_spiral_cypher.js](/src/javascript/5kyu/interlaced_spiral_cypher.js) |
 | 5 | [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062) | [rot13.js](/src/javascript/5kyu/rot13.js) |
 | 5 | [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) | [hashtag_generator.js](/src/javascript/5kyu/hashtag_generator.js) |
 | 6 | [Decode Diagonal](https://www.codewars.com/kata/55af0d33f9b829d0a800008d) | [decode_diagonal.js](/src/javascript/6kyu/decode_diagonal.js) |
 | 6 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [duplicate_encoder.js](/src/javascript/6kyu/duplicate_encoder.js) |
+| 6 | [Enigma Machine - Part 1](https://www.codewars.com/kata/5523b97ac8f5025c45000900) | [enigma_p1.js](/src/javascript/6kyu/enigma_p1.js) |
 | 6 | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [highest_scoring_word.js](/src/javascript/6kyu/highest_scoring_word.js) |
 | 6 | [Message from Aliens](https://www.codewars.com/kata/598980a41e55117d93000015) | [message_from_aliens.js](/src/javascript/6kyu/message_from_aliens.js) |
 | 6 | [Rectangle Into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e) | [rectangle_into_squares.js](/src/javascript/6kyu/rectangle_into_squares.js) |
