@@ -9,8 +9,10 @@
 | 4 | [Magnet Particles In Boxes](https://www.codewars.com/kata/56c04261c3fcf33f2d000534) | [magnet_particles.js](/src/javascript/4kyu/magnet_particles.js) |
 | 4 | [Most Frequent Used Words In A Text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | [most_frequent_used_words.js](/src/javascript/4kyu/most_frequent_used_words.js) |
 | 4 | [Next Biggest Number With Same Digits](https://www.codewars.com/kata/55983863da40caa2c900004e) | [next_biggest_number.js](/src/javascript/4kyu/next_biggest_number.js) |
+| 4 | [Vignere Cipher Helper](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3) | [vignere-cipher.js](/src/javascript/4kyu/vignere-cipher.js) |
 | 5 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e) | [basic_denico.js](/src/javascript/5kyu/basic_denico.js) |
 | 5 | [Interlaced Spiral Cypher](https://www.codewars.com/kata/5a24a35a837545ab04001614) | [interlaced_spiral_cypher.js](/src/javascript/5kyu/interlaced_spiral_cypher.js) |
+| 5 | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [moving_zeros.js](/src/javascript/5kyu/moving_zeros.js) |
 | 5 | [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062) | [rot13.js](/src/javascript/5kyu/rot13.js) |
 | 5 | [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) | [hashtag_generator.js](/src/javascript/5kyu/hashtag_generator.js) |
 | 6 | [Decode Diagonal](https://www.codewars.com/kata/55af0d33f9b829d0a800008d) | [decode_diagonal.js](/src/javascript/6kyu/decode_diagonal.js) |
