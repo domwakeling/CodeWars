@@ -15,11 +15,13 @@
 | 5 | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [moving_zeros.js](/src/javascript/5kyu/moving_zeros.js) |
 | 5 | [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062) | [rot13.js](/src/javascript/5kyu/rot13.js) |
 | 5 | [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024) | [hashtag_generator.js](/src/javascript/5kyu/hashtag_generator.js) |
+| 6 | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | [array_diff.js](/src/javascript/6kyu/array_diff.js) |
 | 6 | [Convert String To Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [convert_camel.js](/src/javascript/6kyu/convert_camel.js) |
 | 6 | [Count The Smiley Faces](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [count_smiley.js](/src/javascript/6kyu/count_smiley.js) |
 | 6 | [Decode Diagonal](https://www.codewars.com/kata/55af0d33f9b829d0a800008d) | [decode_diagonal.js](/src/javascript/6kyu/decode_diagonal.js) |
 | 6 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [duplicate_encoder.js](/src/javascript/6kyu/duplicate_encoder.js) |
 | 6 | [Enigma Machine - Part 1](https://www.codewars.com/kata/5523b97ac8f5025c45000900) | [enigma_p1.js](/src/javascript/6kyu/enigma_p1.js) |
+| 6 | [Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [find_missing_letter.js](/src/javascript/6kyu/find_missing_letter.js) |
 | 6 | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [highest_scoring_word.js](/src/javascript/6kyu/highest_scoring_word.js) |
 | 6 | [Message from Aliens](https://www.codewars.com/kata/598980a41e55117d93000015) | [message_from_aliens.js](/src/javascript/6kyu/message_from_aliens.js) |
 | 6 | [Rectangle Into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e) | [rectangle_into_squares.js](/src/javascript/6kyu/rectangle_into_squares.js) |
