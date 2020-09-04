@@ -29,11 +29,13 @@
 | 6 | [Rectangle Into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e) | [rectangle_into_squares.js](/src/javascript/6kyu/rectangle_into_squares.js) |
 | 6 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [replace_with_alphabet_position.js](/src/javascript/6kyu/replace_with_alphabet_position.js) |
 | 6 | [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786) | [simple_encryption_1.js](/src/javascript/6kyu/simple_encryption_1.js) |
+| 6 | [Simple Sum Of Pairs](https://www.codewars.com/kata/5bc027fccd4ec86c840000b7) | [simple_sum_pairs.js](/src/javascript/6kyu/simple_sum_pairs.js) |
 | 6 | [Supermarket Queue Solution](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [supermarket_queue.js](/src/javascript/6kyu/supermarket_queue.js) |
 | 6 | [Thinking & Testing: A * B](https://www.codewars.com/kata/5a90c9ecb171012b47000077) | [thinking_testing_a_times_b.js](/src/javascript/6kyu/thinking_testing_a_times_b.js) |
 | 6 | [Tortoise Racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) | [tortoise_racing.js](/src/javascript/6kyu/tortoise_racing.js) |
 | 6 | [TV Remote (Shift & Space)](https://www.codewars.com/kata/5b277e94b6989dd1d9000009) | [tv_remote_shift_space.js](/src/javascript/6kyu/tv_remote_shift_space.js) |
 | 6 | [TV Remote (Wrap)](https://www.codewars.com/kata/5b2c2c95b6989da552000120) | [tv_remote_wrap.js](/src/javascript/6kyu/tv_remote_wrap.js) |
+| 6 | [What's Your Poison?](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094) | [whats_your_poison.js](/src/javascript/6kyu/whats_your_poison.js) |
 | 6 | [Which Are In?](https://www.codewars.com/kata/550554fd08b86f84fe000a58) | [which_are_in.js](/src/javascript/6kyu/which_are_in.js) |
 | 7 | [Thinking & Testing: A and B?](https://www.codewars.com/kata/56d904db9963e9cf5000037d) | [thinking_testing_a_and_b.js](/src/javascript/7kyu/thinking_testing_a_and_b.js) |
 | 7 | [Thinking & Testing: Incomplete String](https://www.codewars.com/kata/56d9292cc11bcc3629000533) | [thinking_testing_incomplete.js](/src/javascript/7kyu/thinking_testing_incomplete.js) |
