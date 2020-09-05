@@ -28,6 +28,7 @@
 | 6 | [Message from Aliens](https://www.codewars.com/kata/598980a41e55117d93000015) | [message_from_aliens.js](/src/javascript/6kyu/message_from_aliens.js) |
 | 6 | [Rectangle Into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e) | [rectangle_into_squares.js](/src/javascript/6kyu/rectangle_into_squares.js) |
 | 6 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [replace_with_alphabet_position.js](/src/javascript/6kyu/replace_with_alphabet_position.js) |
+| 6 | [RoboScript #1](https://www.codewars.com/kata/58708934a44cfccca60000c4) | [roboscript_1.js](/src/javascript/6kyu/roboscript_1.js) |
 | 6 | [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786) | [simple_encryption_1.js](/src/javascript/6kyu/simple_encryption_1.js) |
 | 6 | [Simple Sum Of Pairs](https://www.codewars.com/kata/5bc027fccd4ec86c840000b7) | [simple_sum_pairs.js](/src/javascript/6kyu/simple_sum_pairs.js) |
 | 6 | [Supermarket Queue Solution](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [supermarket_queue.js](/src/javascript/6kyu/supermarket_queue.js) |
