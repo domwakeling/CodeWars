@@ -6,9 +6,11 @@
 
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 3 | [Roboscript #4](https://www.codewars.com/kata/594b898169c1d644f900002e) | [roboscript_4.js](/src/javascript/4kyu/roboscript_4.js) |
 | 4 | [Magnet Particles In Boxes](https://www.codewars.com/kata/56c04261c3fcf33f2d000534) | [magnet_particles.js](/src/javascript/4kyu/magnet_particles.js) |
 | 4 | [Most Frequent Used Words In A Text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | [most_frequent_used_words.js](/src/javascript/4kyu/most_frequent_used_words.js) |
 | 4 | [Next Biggest Number With Same Digits](https://www.codewars.com/kata/55983863da40caa2c900004e) | [next_biggest_number.js](/src/javascript/4kyu/next_biggest_number.js) |
+| 4 | [Roboscript #3](https://www.codewars.com/kata/58738d518ec3b4bf95000192) | [roboscript_3.js](/src/javascript/4kyu/roboscript_3.js) |
 | 4 | [Vignere Cipher Helper](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3) | [vignere-cipher.js](/src/javascript/4kyu/vignere-cipher.js) |
 | 5 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e) | [basic_denico.js](/src/javascript/5kyu/basic_denico.js) |
 | 5 | [Interlaced Spiral Cypher](https://www.codewars.com/kata/5a24a35a837545ab04001614) | [interlaced_spiral_cypher.js](/src/javascript/5kyu/interlaced_spiral_cypher.js) |
