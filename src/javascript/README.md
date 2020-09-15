@@ -12,8 +12,10 @@
 | 4 | [Next Biggest Number With Same Digits](https://www.codewars.com/kata/55983863da40caa2c900004e) | [next_biggest_number.js](/src/javascript/4kyu/next_biggest_number.js) |
 | 4 | [Roboscript #3](https://www.codewars.com/kata/58738d518ec3b4bf95000192) | [roboscript_3.js](/src/javascript/4kyu/roboscript_3.js) |
 | 4 | [Vignere Cipher Helper](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3) | [vignere-cipher.js](/src/javascript/4kyu/vignere-cipher.js) |
+| 5 | [1-800-CODE-WAR](https://www.codewars.com/kata/5a3267b2ee1aaead3d000037) | [1_800_code_war.js](/src/javascript/5kyu/1_800_code_war.js) |
 | 5 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e) | [basic_denico.js](/src/javascript/5kyu/basic_denico.js) |
 | 5 | [Interlaced Spiral Cypher](https://www.codewars.com/kata/5a24a35a837545ab04001614) | [interlaced_spiral_cypher.js](/src/javascript/5kyu/interlaced_spiral_cypher.js) |
+| 5 | [Langton's Ant](https://www.codewars.com/kata/58e6996019af2cff71000081) | [langtons_ant.js](/src/javascript/5kyu/langtons_ant.js) |
 | 5 | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [moving_zeros.js](/src/javascript/5kyu/moving_zeros.js) |
 | 5 | [Roboscript #2](https://www.codewars.com/kata/5870fa11aa0428da750000da) | [roboscript_2.js](/src/javascript/5kyu/roboscript_2.js) |
 | 5 | [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062) | [rot13.js](/src/javascript/5kyu/rot13.js) |
