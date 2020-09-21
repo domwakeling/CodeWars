@@ -7,6 +7,7 @@
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
 | 3 | [Roboscript #4](https://www.codewars.com/kata/594b898169c1d644f900002e) | [roboscript_4.js](/src/javascript/4kyu/roboscript_4.js) |
+| 4 | [4 by 4 Skyscrapers](https://www.codewars.com/kata/5671d975d81d6c1c87000022) | [4_by_4_skyscrapers.js](/src/javascript/4kyu/4_by_4_skyscrapers.js) |
 | 4 | [Magnet Particles In Boxes](https://www.codewars.com/kata/56c04261c3fcf33f2d000534) | [magnet_particles.js](/src/javascript/4kyu/magnet_particles.js) |
 | 4 | [Most Frequent Used Words In A Text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | [most_frequent_used_words.js](/src/javascript/4kyu/most_frequent_used_words.js) |
 | 4 | [Next Biggest Number With Same Digits](https://www.codewars.com/kata/55983863da40caa2c900004e) | [next_biggest_number.js](/src/javascript/4kyu/next_biggest_number.js) |
