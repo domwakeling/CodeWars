@@ -17,6 +17,7 @@
 | 5 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e) | [basic_denico.js](/src/javascript/5kyu/basic_denico.js) |
 | 5 | [Interlaced Spiral Cypher](https://www.codewars.com/kata/5a24a35a837545ab04001614) | [interlaced_spiral_cypher.js](/src/javascript/5kyu/interlaced_spiral_cypher.js) |
 | 5 | [Langton's Ant](https://www.codewars.com/kata/58e6996019af2cff71000081) | [langtons_ant.js](/src/javascript/5kyu/langtons_ant.js) |
+| 5 | [One Line Task: Stick or Chopsticks](https://www.codewars.com/kata/58fdada9b4f81a844f0000cb) | [stick_chopsticks.js](/src/javascript/5kyu/stick_chopsticks.js) |
 | 5 | [Molecule To Atoms](https://www.codewars.com/kata/52f831fa9d332c6591000511) | [molecule_2_atoms.js](/src/javascript/5kyu/molecule_2_atoms.js) |
 | 5 | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [moving_zeros.js](/src/javascript/5kyu/moving_zeros.js) |
 | 5 | [Number of Trailing Zeros Of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34) | [trailing_zeros.js](/src/javascript/5kyu/trailing_zeros.js) |
