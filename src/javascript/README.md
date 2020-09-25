@@ -51,7 +51,7 @@
 | 7 | [Thinking & Testing: A and B?](https://www.codewars.com/kata/56d904db9963e9cf5000037d) | [thinking_testing_a_and_b.js](/src/javascript/7kyu/thinking_testing_a_and_b.js) |
 | 7 | [Thinking & Testing: Incomplete String](https://www.codewars.com/kata/56d9292cc11bcc3629000533) | [thinking_testing_incomplete.js](/src/javascript/7kyu/thinking_testing_incomplete.js) |
 | 7 | [TV Remote](https://www.codewars.com/kata/5a5032f4fd56cb958e00007a) | [tv_remote.js](/src/javascript/7kyu/tv_remote.js) |
-
+| 8 | [If You Can't Sleep Just Count Sheep](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077) | [count_sheep.js](/src/javascript/8kyu/count_sheep.js) |
 <br />
 
 *Icon by [Icons8](https://icons8.com/icon/108784/javascript)*
