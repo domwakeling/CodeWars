@@ -32,6 +32,7 @@
 | 6 | [Count The Smiley Faces](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [count_smiley.js](/src/javascript/6kyu/count_smiley.js) |
 | 6 | [Decode Diagonal](https://www.codewars.com/kata/55af0d33f9b829d0a800008d) | [decode_diagonal.js](/src/javascript/6kyu/decode_diagonal.js) |
 | 6 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [duplicate_encoder.js](/src/javascript/6kyu/duplicate_encoder.js) |
+| 6 | [Easy Balance Checking](https://www.codewars.com/kata/59d727d40e8c9dd2dd00009f) | [easy_balance_checking.js](/src/javascript/6kyu/easy_balance_checking.js) |
 | 6 | [Enigma Machine - Part 1](https://www.codewars.com/kata/5523b97ac8f5025c45000900) | [enigma_p1.js](/src/javascript/6kyu/enigma_p1.js) |
 | 6 | [Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [find_missing_letter.js](/src/javascript/6kyu/find_missing_letter.js) |
 | 6 | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [highest_scoring_word.js](/src/javascript/6kyu/highest_scoring_word.js) |
