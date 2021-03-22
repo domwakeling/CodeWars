@@ -15,7 +15,7 @@
 | 4 | [Vignere Cipher Helper](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3) | [vignere-cipher.js](/src/javascript/4kyu/vignere-cipher.js) |
 | 5 | [1-800-CODE-WAR](https://www.codewars.com/kata/5a3267b2ee1aaead3d000037) | [1_800_code_war.js](/src/javascript/5kyu/1_800_code_war.js) |
 | 5 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e) | [basic_denico.js](/src/javascript/5kyu/basic_denico.js) |
-| 5 | [Extract Domain Name From URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) | [extract_domain_namejs](/src/javascript/5kyu/extract_domain_namejs) |
+| 5 | [Extract Domain Name From URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) | [extract_domain_name.js](/src/javascript/5kyu/extract_domain_name.js) |
 | 5 | [int32 to IPV4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e) | [int32_to_ipv4.js](/src/javascript/5kyu/int32_to_ipv4.js) |
 | 5 | [Interlaced Spiral Cypher](https://www.codewars.com/kata/5a24a35a837545ab04001614) | [interlaced_spiral_cypher.js](/src/javascript/5kyu/interlaced_spiral_cypher.js) |
 | 5 | [Langton's Ant](https://www.codewars.com/kata/58e6996019af2cff71000081) | [langtons_ant.js](/src/javascript/5kyu/langtons_ant.js) |
