@@ -36,7 +36,9 @@
 | 6 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [duplicate_encoder.js](/src/javascript/6kyu/duplicate_encoder.js) |
 | 6 | [Easy Balance Checking](https://www.codewars.com/kata/59d727d40e8c9dd2dd00009f) | [easy_balance_checking.js](/src/javascript/6kyu/easy_balance_checking.js) |
 | 6 | [Enigma Machine - Part 1](https://www.codewars.com/kata/5523b97ac8f5025c45000900) | [enigma_p1.js](/src/javascript/6kyu/enigma_p1.js) |
+| 6 | [Evil AutocorrectPrank](https://www.codewars.com/kata/538ae2eb7a4ba8c99b000439) | [evil_autocorrect.js](/src/javascript/6kyu/evil_autocorrect.js) |
 | 6 | [Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [find_missing_letter.js](/src/javascript/6kyu/find_missing_letter.js) |
+| 6 | [Give Me A Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) | [give_me_a_diamond.js](/src/javascript/6kyu/give_me_a_diamond.js) |
 | 6 | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [highest_scoring_word.js](/src/javascript/6kyu/highest_scoring_word.js) |
 | 6 | [Message from Aliens](https://www.codewars.com/kata/598980a41e55117d93000015) | [message_from_aliens.js](/src/javascript/6kyu/message_from_aliens.js) |
 | 6 | [Rectangle Into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e) | [rectangle_into_squares.js](/src/javascript/6kyu/rectangle_into_squares.js) |
