@@ -41,6 +41,7 @@
 | 6 | [Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [find_missing_letter.js](/src/javascript/6kyu/find_missing_letter.js) |
 | 6 | [Give Me A Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) | [give_me_a_diamond.js](/src/javascript/6kyu/give_me_a_diamond.js) |
 | 6 | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [highest_scoring_word.js](/src/javascript/6kyu/highest_scoring_word.js) |
+| 6 | [Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f) | [matrix_addition.js](/src/javascript/6kyu/matrix_addition.js) |
 | 6 | [Message from Aliens](https://www.codewars.com/kata/598980a41e55117d93000015) | [message_from_aliens.js](/src/javascript/6kyu/message_from_aliens.js) |
 | 6 | [Rectangle Into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e) | [rectangle_into_squares.js](/src/javascript/6kyu/rectangle_into_squares.js) |
 | 6 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [replace_with_alphabet_position.js](/src/javascript/6kyu/replace_with_alphabet_position.js) |
@@ -48,12 +49,15 @@
 | 6 | [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786) | [simple_encryption_1.js](/src/javascript/6kyu/simple_encryption_1.js) |
 | 6 | [Simple Sum Of Pairs](https://www.codewars.com/kata/5bc027fccd4ec86c840000b7) | [simple_sum_pairs.js](/src/javascript/6kyu/simple_sum_pairs.js) |
 | 6 | [Supermarket Queue Solution](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [supermarket_queue.js](/src/javascript/6kyu/supermarket_queue.js) |
+| 6 | [Take A Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) | [ten_minute_walk.js](/src/javascript/6kyu/ten_minute_walk.js) |
 | 6 | [Thinking & Testing: A * B](https://www.codewars.com/kata/5a90c9ecb171012b47000077) | [thinking_testing_a_times_b.js](/src/javascript/6kyu/thinking_testing_a_times_b.js) |
 | 6 | [Tortoise Racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c) | [tortoise_racing.js](/src/javascript/6kyu/tortoise_racing.js) |
 | 6 | [TV Remote (Shift & Space)](https://www.codewars.com/kata/5b277e94b6989dd1d9000009) | [tv_remote_shift_space.js](/src/javascript/6kyu/tv_remote_shift_space.js) |
 | 6 | [TV Remote (Wrap)](https://www.codewars.com/kata/5b2c2c95b6989da552000120) | [tv_remote_wrap.js](/src/javascript/6kyu/tv_remote_wrap.js) |
 | 6 | [What's Your Poison?](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094) | [whats_your_poison.js](/src/javascript/6kyu/whats_your_poison.js) |
 | 6 | [Which Are In?](https://www.codewars.com/kata/550554fd08b86f84fe000a58) | [which_are_in.js](/src/javascript/6kyu/which_are_in.js) |
+| 7 | [Password Hashes](https://www.codewars.com/kata/54207f9677730acd490000d1/) | [password_hashes.js](/src/javascript/7kyu/password_hashes.js) |
+| 7 | [The Fusc Function Part 1](https://www.codewars.com/kata/570409d3d80ec699af001bf9) | [fusc_fn_p1.js](/src/javascript/7kyu/fusc_fn_p1.js) |
 | 7 | [Thinking & Testing: A and B?](https://www.codewars.com/kata/56d904db9963e9cf5000037d) | [thinking_testing_a_and_b.js](/src/javascript/7kyu/thinking_testing_a_and_b.js) |
 | 7 | [Thinking & Testing: Incomplete String](https://www.codewars.com/kata/56d9292cc11bcc3629000533) | [thinking_testing_incomplete.js](/src/javascript/7kyu/thinking_testing_incomplete.js) |
 | 7 | [TV Remote](https://www.codewars.com/kata/5a5032f4fd56cb958e00007a) | [tv_remote.js](/src/javascript/7kyu/tv_remote.js) |
