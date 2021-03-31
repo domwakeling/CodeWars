@@ -13,6 +13,7 @@
 | 4 | [Most Frequent Used Words In A Text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | [most_frequent_used_words.js](/src/javascript/4kyu/most_frequent_used_words.js) |
 | 4 | [Next Biggest Number With Same Digits](https://www.codewars.com/kata/55983863da40caa2c900004e) | [next_biggest_number.js](/src/javascript/4kyu/next_biggest_number.js) |
 | 4 | [Roboscript #3](https://www.codewars.com/kata/58738d518ec3b4bf95000192) | [roboscript_3.js](/src/javascript/4kyu/roboscript_3.js) |
+| 4 | [Simplistic TCP FSM](https://www.codewars.com/kata/54acc128329e634e9a000362) | [tcp_fsm.js](/src/javascript/4kyu/tcp_fsm.js) |
 | 4 | [Vignere Cipher Helper](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3) | [vignere-cipher.js](/src/javascript/4kyu/vignere-cipher.js) |
 | 5 | [1-800-CODE-WAR](https://www.codewars.com/kata/5a3267b2ee1aaead3d000037) | [1_800_code_war.js](/src/javascript/5kyu/1_800_code_war.js) |
 | 5 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e) | [basic_denico.js](/src/javascript/5kyu/basic_denico.js) |
@@ -34,10 +35,12 @@
 | 6 | [Convert String To Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [convert_camel.js](/src/javascript/6kyu/convert_camel.js) |
 | 6 | [Count The Smiley Faces](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [count_smiley.js](/src/javascript/6kyu/count_smiley.js) |
 | 6 | [Decode Diagonal](https://www.codewars.com/kata/55af0d33f9b829d0a800008d) | [decode_diagonal.js](/src/javascript/6kyu/decode_diagonal.js) |
+| 6 | [Design A Simple Automaton (FSM)](https://www.codewars.com/kata/5268acac0d3f019add000203) | [simple_automaton.js](/src/javascript/6kyu/simple_automaton.js) |
 | 6 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [duplicate_encoder.js](/src/javascript/6kyu/duplicate_encoder.js) |
 | 6 | [Easy Balance Checking](https://www.codewars.com/kata/59d727d40e8c9dd2dd00009f) | [easy_balance_checking.js](/src/javascript/6kyu/easy_balance_checking.js) |
 | 6 | [Enigma Machine - Part 1](https://www.codewars.com/kata/5523b97ac8f5025c45000900) | [enigma_p1.js](/src/javascript/6kyu/enigma_p1.js) |
 | 6 | [Evil AutocorrectPrank](https://www.codewars.com/kata/538ae2eb7a4ba8c99b000439) | [evil_autocorrect.js](/src/javascript/6kyu/evil_autocorrect.js) |
+| 6 | [Find The Mine](https://www.codewars.com/kata/528d9adf0e03778b9e00067e) | [find_the_mine.js](/src/javascript/6kyu/find_the_mine.js) |
 | 6 | [Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [find_missing_letter.js](/src/javascript/6kyu/find_missing_letter.js) |
 | 6 | [Give Me A Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) | [give_me_a_diamond.js](/src/javascript/6kyu/give_me_a_diamond.js) |
 | 6 | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [highest_scoring_word.js](/src/javascript/6kyu/highest_scoring_word.js) |
