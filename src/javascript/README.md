@@ -45,10 +45,13 @@
 | 6 | [Give Me A Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) | [give_me_a_diamond.js](/src/javascript/6kyu/give_me_a_diamond.js) |
 | 6 | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [highest_scoring_word.js](/src/javascript/6kyu/highest_scoring_word.js) |
 | 6 | [Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f) | [matrix_addition.js](/src/javascript/6kyu/matrix_addition.js) |
+| 6 | [Maze Runner](https://www.codewars.com/kata/58663693b359c4a6560001d6) | [maze_runner.js](/src/javascript/6kyu/maze_runner.js) |
 | 6 | [Message from Aliens](https://www.codewars.com/kata/598980a41e55117d93000015) | [message_from_aliens.js](/src/javascript/6kyu/message_from_aliens.js) |
+| 6 | [NSA's Little Puzzle](https://www.codewars.com/kata/57f46250bd7b5434b7000ab8) | [nsa_little_puzzle.js](/src/javascript/6kyu/nsa_little_puzzle.js) |
 | 6 | [Rectangle Into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e) | [rectangle_into_squares.js](/src/javascript/6kyu/rectangle_into_squares.js) |
 | 6 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [replace_with_alphabet_position.js](/src/javascript/6kyu/replace_with_alphabet_position.js) |
 | 6 | [RoboScript #1](https://www.codewars.com/kata/58708934a44cfccca60000c4) | [roboscript_1.js](/src/javascript/6kyu/roboscript_1.js) |
+| 6 | [Scooby Doo Puzzle](https://www.codewars.com/kata/58693bbfd7da144164000d05) | [scooby_doo.js](/src/javascript/6kyu/scooby_doo.js) |
 | 6 | [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786) | [simple_encryption_1.js](/src/javascript/6kyu/simple_encryption_1.js) |
 | 6 | [Simple Sum Of Pairs](https://www.codewars.com/kata/5bc027fccd4ec86c840000b7) | [simple_sum_pairs.js](/src/javascript/6kyu/simple_sum_pairs.js) |
 | 6 | [Supermarket Queue Solution](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [supermarket_queue.js](/src/javascript/6kyu/supermarket_queue.js) |
