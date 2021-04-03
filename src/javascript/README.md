@@ -47,6 +47,8 @@
 | 6 | [Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f) | [matrix_addition.js](/src/javascript/6kyu/matrix_addition.js) |
 | 6 | [Maze Runner](https://www.codewars.com/kata/58663693b359c4a6560001d6) | [maze_runner.js](/src/javascript/6kyu/maze_runner.js) |
 | 6 | [Message from Aliens](https://www.codewars.com/kata/598980a41e55117d93000015) | [message_from_aliens.js](/src/javascript/6kyu/message_from_aliens.js) |
+| 6 | [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) | [mexican_wave.js](/src/javascript/6kyu/mexican_wave.js) |
+| 6 | [Moves In Squared Strings (II)](https://www.codewars.com/kata/56dbe7f113c2f63570000b86) | [squared_strings_ii.js](/src/javascript/6kyu/squared_strings_ii.js) |
 | 6 | [NSA's Little Puzzle](https://www.codewars.com/kata/57f46250bd7b5434b7000ab8) | [nsa_little_puzzle.js](/src/javascript/6kyu/nsa_little_puzzle.js) |
 | 6 | [Rectangle Into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e) | [rectangle_into_squares.js](/src/javascript/6kyu/rectangle_into_squares.js) |
 | 6 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [replace_with_alphabet_position.js](/src/javascript/6kyu/replace_with_alphabet_position.js) |
@@ -62,6 +64,8 @@
 | 6 | [TV Remote (Wrap)](https://www.codewars.com/kata/5b2c2c95b6989da552000120) | [tv_remote_wrap.js](/src/javascript/6kyu/tv_remote_wrap.js) |
 | 6 | [What's Your Poison?](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094) | [whats_your_poison.js](/src/javascript/6kyu/whats_your_poison.js) |
 | 6 | [Which Are In?](https://www.codewars.com/kata/550554fd08b86f84fe000a58) | [which_are_in.js](/src/javascript/6kyu/which_are_in.js) |
+| 7 | [Driving License](https://www.codewars.com/kata/586a1af1c66d18ad81000134/) | [driving_license.js](/src/javascript/7kyu/driving_license.js) |
+| 7 | [Moves In Squared Strings (I)](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25) | [squared_strings_i.js](/src/javascript/7kyu/squared_strings_i.js) |
 | 7 | [Password Hashes](https://www.codewars.com/kata/54207f9677730acd490000d1/) | [password_hashes.js](/src/javascript/7kyu/password_hashes.js) |
 | 7 | [The Fusc Function Part 1](https://www.codewars.com/kata/570409d3d80ec699af001bf9) | [fusc_fn_p1.js](/src/javascript/7kyu/fusc_fn_p1.js) |
 | 7 | [Thinking & Testing: A and B?](https://www.codewars.com/kata/56d904db9963e9cf5000037d) | [thinking_testing_a_and_b.js](/src/javascript/7kyu/thinking_testing_a_and_b.js) |
