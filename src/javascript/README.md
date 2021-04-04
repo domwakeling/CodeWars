@@ -34,14 +34,17 @@
 | 6 | [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) | [array_diff.js](/src/javascript/6kyu/array_diff.js) |
 | 6 | [Convert String To Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [convert_camel.js](/src/javascript/6kyu/convert_camel.js) |
 | 6 | [Count The Smiley Faces](https://www.codewars.com/kata/583203e6eb35d7980400002a) | [count_smiley.js](/src/javascript/6kyu/count_smiley.js) |
+| 6 | [Create A Frame](https://www.codewars.com/kata/5672f4e3404d0609ec00000a) | [create_a_frame.js](/src/javascript/6kyu/create_a_frame.js) |
 | 6 | [Decode Diagonal](https://www.codewars.com/kata/55af0d33f9b829d0a800008d) | [decode_diagonal.js](/src/javascript/6kyu/decode_diagonal.js) |
 | 6 | [Design A Simple Automaton (FSM)](https://www.codewars.com/kata/5268acac0d3f019add000203) | [simple_automaton.js](/src/javascript/6kyu/simple_automaton.js) |
 | 6 | [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c) | [duplicate_encoder.js](/src/javascript/6kyu/duplicate_encoder.js) |
+| 6 | [Ease The StockBroker](https://www.codewars.com/kata/54de3257f565801d96001200) | [ease_stockbroker.js](/src/javascript/6kyu/ease_stockbroker.js) |
 | 6 | [Easy Balance Checking](https://www.codewars.com/kata/59d727d40e8c9dd2dd00009f) | [easy_balance_checking.js](/src/javascript/6kyu/easy_balance_checking.js) |
 | 6 | [Enigma Machine - Part 1](https://www.codewars.com/kata/5523b97ac8f5025c45000900) | [enigma_p1.js](/src/javascript/6kyu/enigma_p1.js) |
 | 6 | [Evil AutocorrectPrank](https://www.codewars.com/kata/538ae2eb7a4ba8c99b000439) | [evil_autocorrect.js](/src/javascript/6kyu/evil_autocorrect.js) |
 | 6 | [Find The Mine](https://www.codewars.com/kata/528d9adf0e03778b9e00067e) | [find_the_mine.js](/src/javascript/6kyu/find_the_mine.js) |
 | 6 | [Find The Missing Letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2) | [find_missing_letter.js](/src/javascript/6kyu/find_missing_letter.js) |
+| 6 | [Framed Reflection](https://www.codewars.com/kata/581331293788bc1702001fa6) | [framed_reflection.js](/src/javascript/6kyu/framed_reflection.js) |
 | 6 | [Give Me A Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648) | [give_me_a_diamond.js](/src/javascript/6kyu/give_me_a_diamond.js) |
 | 6 | [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272) | [highest_scoring_word.js](/src/javascript/6kyu/highest_scoring_word.js) |
 | 6 | [Matrix Addition](https://www.codewars.com/kata/526233aefd4764272800036f) | [matrix_addition.js](/src/javascript/6kyu/matrix_addition.js) |
@@ -49,6 +52,7 @@
 | 6 | [Message from Aliens](https://www.codewars.com/kata/598980a41e55117d93000015) | [message_from_aliens.js](/src/javascript/6kyu/message_from_aliens.js) |
 | 6 | [Mexican Wave](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029) | [mexican_wave.js](/src/javascript/6kyu/mexican_wave.js) |
 | 6 | [Moves In Squared Strings (II)](https://www.codewars.com/kata/56dbe7f113c2f63570000b86) | [squared_strings_ii.js](/src/javascript/6kyu/squared_strings_ii.js) |
+| 6 | [Number Zoo Patrol](https://www.codewars.com/kata/5276c18121e20900c0000235) | [number_zoo_patrol.js](/src/javascript/6kyu/number_zoo_patrol.js) |
 | 6 | [NSA's Little Puzzle](https://www.codewars.com/kata/57f46250bd7b5434b7000ab8) | [nsa_little_puzzle.js](/src/javascript/6kyu/nsa_little_puzzle.js) |
 | 6 | [Rectangle Into Squares](https://www.codewars.com/kata/55466989aeecab5aac00003e) | [rectangle_into_squares.js](/src/javascript/6kyu/rectangle_into_squares.js) |
 | 6 | [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da) | [replace_with_alphabet_position.js](/src/javascript/6kyu/replace_with_alphabet_position.js) |
