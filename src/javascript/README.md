@@ -60,6 +60,8 @@
 | 6 | [Scooby Doo Puzzle](https://www.codewars.com/kata/58693bbfd7da144164000d05) | [scooby_doo.js](/src/javascript/6kyu/scooby_doo.js) |
 | 6 | [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786) | [simple_encryption_1.js](/src/javascript/6kyu/simple_encryption_1.js) |
 | 6 | [Simple Sum Of Pairs](https://www.codewars.com/kata/5bc027fccd4ec86c840000b7) | [simple_sum_pairs.js](/src/javascript/6kyu/simple_sum_pairs.js) |
+| 6 | [Simple Transpositin](https://www.codewars.com/kata/57a153e872292d7c030009d4) | [simple_transposition.js](/src/javascript/6kyu/simple_transposition.js) |
+| 6 | [Statistics For Athletic Association](https://www.codewars.com/kata/55b3425df71c1201a800009c) | [statistics_athletic.js](/src/javascript/6kyu/statistics_athletic.js) |
 | 6 | [Supermarket Queue Solution](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [supermarket_queue.js](/src/javascript/6kyu/supermarket_queue.js) |
 | 6 | [Take A Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) | [ten_minute_walk.js](/src/javascript/6kyu/ten_minute_walk.js) |
 | 6 | [Thinking & Testing: A * B](https://www.codewars.com/kata/5a90c9ecb171012b47000077) | [thinking_testing_a_times_b.js](/src/javascript/6kyu/thinking_testing_a_times_b.js) |
@@ -68,6 +70,7 @@
 | 6 | [TV Remote (Wrap)](https://www.codewars.com/kata/5b2c2c95b6989da552000120) | [tv_remote_wrap.js](/src/javascript/6kyu/tv_remote_wrap.js) |
 | 6 | [What's Your Poison?](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094) | [whats_your_poison.js](/src/javascript/6kyu/whats_your_poison.js) |
 | 6 | [Which Are In?](https://www.codewars.com/kata/550554fd08b86f84fe000a58) | [which_are_in.js](/src/javascript/6kyu/which_are_in.js) |
+| 6 | [Which Filetype Are You Using The Most?](https://www.codewars.com/kata/5c7254fcaccda64d01907710) | [which_filetype.js](/src/javascript/6kyu/which_filetype.js) |
 | 7 | [Driving License](https://www.codewars.com/kata/586a1af1c66d18ad81000134/) | [driving_license.js](/src/javascript/7kyu/driving_license.js) |
 | 7 | [Moves In Squared Strings (I)](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25) | [squared_strings_i.js](/src/javascript/7kyu/squared_strings_i.js) |
 | 7 | [Password Hashes](https://www.codewars.com/kata/54207f9677730acd490000d1/) | [password_hashes.js](/src/javascript/7kyu/password_hashes.js) |

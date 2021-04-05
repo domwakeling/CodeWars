@@ -6,6 +6,7 @@
 
 | kyu | Codewars Kata | My Solutions |
 | --- | --- | --- |
+| 4 | [Human Readable Duration Format](https://www.codewars.com/kata/52742f58faf5485cae000b9a) | [human_readable_duration.py](/src/python/4kyu/human_readable_duration.py) |
 | 4 | [RPG Simulator - Defeat The Demon Lord Part 1](https://www.codewars.com/kata/5e95b6e90663180028f2329d) | [rpg_simulator_1.py](/src/python/4kyu/rpg_simulator_1.py) |
 | 5 | [Mixbonacci](https://www.codewars.com/kata/5811aef3acdf4dab5e000251) | [mixbonacci.py](/src/python/5kyu/mixbonacci.py) |
 | 6 | [Array Exchange](https://www.codewars.com/kata/5353212e5ee40d4694001114) | [array_exchange.py](/src/python/6kyu/array_exchange.py) |
