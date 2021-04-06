@@ -12,6 +12,7 @@
 | 4 | [Magnet Particles In Boxes](https://www.codewars.com/kata/56c04261c3fcf33f2d000534) | [magnet_particles.js](/src/javascript/4kyu/magnet_particles.js) |
 | 4 | [Most Frequent Used Words In A Text](https://www.codewars.com/kata/51e056fe544cf36c410000fb) | [most_frequent_used_words.js](/src/javascript/4kyu/most_frequent_used_words.js) |
 | 4 | [Next Biggest Number With Same Digits](https://www.codewars.com/kata/55983863da40caa2c900004e) | [next_biggest_number.js](/src/javascript/4kyu/next_biggest_number.js) |
+| 4 | [Path Finder #1](https://www.codewars.com/kata/5765870e190b1472ec0022a2) | [path_finder_1.js](/src/javascript/4kyu/path_finder_1.js) |
 | 4 | [Roboscript #3](https://www.codewars.com/kata/58738d518ec3b4bf95000192) | [roboscript_3.js](/src/javascript/4kyu/roboscript_3.js) |
 | 4 | [Simplistic TCP FSM](https://www.codewars.com/kata/54acc128329e634e9a000362) | [tcp_fsm.js](/src/javascript/4kyu/tcp_fsm.js) |
 | 4 | [Vignere Cipher Helper](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3) | [vignere-cipher.js](/src/javascript/4kyu/vignere-cipher.js) |
