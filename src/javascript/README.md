@@ -62,6 +62,7 @@
 | 6 | [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786) | [simple_encryption_1.js](/src/javascript/6kyu/simple_encryption_1.js) |
 | 6 | [Simple Sum Of Pairs](https://www.codewars.com/kata/5bc027fccd4ec86c840000b7) | [simple_sum_pairs.js](/src/javascript/6kyu/simple_sum_pairs.js) |
 | 6 | [Simple Transpositin](https://www.codewars.com/kata/57a153e872292d7c030009d4) | [simple_transposition.js](/src/javascript/6kyu/simple_transposition.js) |
+| 6 | [Simple Web Framework #1](https://www.codewars.com/kata/588a00ad70720f2cd9000005) | [simple_web_framework_1.js](simple_web_framework_1.js) |
 | 6 | [Statistics For Athletic Association](https://www.codewars.com/kata/55b3425df71c1201a800009c) | [statistics_athletic.js](/src/javascript/6kyu/statistics_athletic.js) |
 | 6 | [Supermarket Queue Solution](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [supermarket_queue.js](/src/javascript/6kyu/supermarket_queue.js) |
 | 6 | [Take A Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) | [ten_minute_walk.js](/src/javascript/6kyu/ten_minute_walk.js) |
@@ -70,6 +71,7 @@
 | 6 | [TV Remote (Shift & Space)](https://www.codewars.com/kata/5b277e94b6989dd1d9000009) | [tv_remote_shift_space.js](/src/javascript/6kyu/tv_remote_shift_space.js) |
 | 6 | [TV Remote (Wrap)](https://www.codewars.com/kata/5b2c2c95b6989da552000120) | [tv_remote_wrap.js](/src/javascript/6kyu/tv_remote_wrap.js) |
 | 6 | [What's Your Poison?](https://www.codewars.com/kata/58c47a95e4eb57a5b9000094) | [whats_your_poison.js](/src/javascript/6kyu/whats_your_poison.js) |
+| 6 | [What's Your Running Pace?](https://www.codewars.com/kata/578b8c0e84ac69a4d20004c8) | [what_running_pace.js](/src/javascript/6kyu/what_running_pace.js) |
 | 6 | [Which Are In?](https://www.codewars.com/kata/550554fd08b86f84fe000a58) | [which_are_in.js](/src/javascript/6kyu/which_are_in.js) |
 | 6 | [Which Filetype Are You Using The Most?](https://www.codewars.com/kata/5c7254fcaccda64d01907710) | [which_filetype.js](/src/javascript/6kyu/which_filetype.js) |
 | 7 | [Driving License](https://www.codewars.com/kata/586a1af1c66d18ad81000134/) | [driving_license.js](/src/javascript/7kyu/driving_license.js) |
