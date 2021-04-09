@@ -1,4 +1,4 @@
-# https: // www.codewars.com/kata/5894134c8afa3618c9000146
+# https://www.codewars.com/kata/5894134c8afa3618c9000146
 
 def chess_board_cell_color(cell1, cell2):
     pos = list(

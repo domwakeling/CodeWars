@@ -1,6 +1,6 @@
-import re
-https: // www.codewars.com/kata/5735b2b413c205fe39000c68
+# https://www.codewars.com/kata/5735b2b413c205fe39000c68
 
+import re
 
 def shorten(ip):
     # split and change 0000 to 0

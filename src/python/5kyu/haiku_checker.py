@@ -1,4 +1,4 @@
-# https: // www.codewars.com/kata/5c765a4f29e50e391e1414d4
+# https://www.codewars.com/kata/5c765a4f29e50e391e1414d4
 
 import re
 
