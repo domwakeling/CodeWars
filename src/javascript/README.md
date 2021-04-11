@@ -15,7 +15,7 @@
 | 4 | [Path Finder #1](https://www.codewars.com/kata/5765870e190b1472ec0022a2) | [path_finder_1.js](/src/javascript/4kyu/path_finder_1.js) |
 | 4 | [Roboscript #3](https://www.codewars.com/kata/58738d518ec3b4bf95000192) | [roboscript_3.js](/src/javascript/4kyu/roboscript_3.js) |
 | 4 | [Simplistic TCP FSM](https://www.codewars.com/kata/54acc128329e634e9a000362) | [tcp_fsm.js](/src/javascript/4kyu/tcp_fsm.js) |
-| 4 | [Vignere Cipher Helper](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3) | [vignere-cipher.js](/src/javascript/4kyu/vignere-cipher.js) |
+| 4 | [Vignere Cipher Helper](https://www.codewars.com/kata/52d1bd3694d26f8d6e0000d3) | [vignere_cipher.js](/src/javascript/4kyu/vignere_cipher.js) |
 | 5 | [1-800-CODE-WAR](https://www.codewars.com/kata/5a3267b2ee1aaead3d000037) | [1_800_code_war.js](/src/javascript/5kyu/1_800_code_war.js) |
 | 5 | [Basic DeNico](https://www.codewars.com/kata/596f610441372ee0de00006e) | [basic_denico.js](/src/javascript/5kyu/basic_denico.js) |
 | 5 | [Extract Domain Name From URL](https://www.codewars.com/kata/514a024011ea4fb54200004b) | [extract_domain_name.js](/src/javascript/5kyu/extract_domain_name.js) |
@@ -62,7 +62,7 @@
 | 6 | [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786) | [simple_encryption_1.js](/src/javascript/6kyu/simple_encryption_1.js) |
 | 6 | [Simple Sum Of Pairs](https://www.codewars.com/kata/5bc027fccd4ec86c840000b7) | [simple_sum_pairs.js](/src/javascript/6kyu/simple_sum_pairs.js) |
 | 6 | [Simple Transpositin](https://www.codewars.com/kata/57a153e872292d7c030009d4) | [simple_transposition.js](/src/javascript/6kyu/simple_transposition.js) |
-| 6 | [Simple Web Framework #1](https://www.codewars.com/kata/588a00ad70720f2cd9000005) | [simple_web_framework_1.js](simple_web_framework_1.js) |
+| 6 | [Simple Web Framework #1](https://www.codewars.com/kata/588a00ad70720f2cd9000005) | [simple_web_framework_1.js](/src/javascript/6kyu/simple_web_framework_1.js) |
 | 6 | [Statistics For Athletic Association](https://www.codewars.com/kata/55b3425df71c1201a800009c) | [statistics_athletic.js](/src/javascript/6kyu/statistics_athletic.js) |
 | 6 | [Supermarket Queue Solution](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) | [supermarket_queue.js](/src/javascript/6kyu/supermarket_queue.js) |
 | 6 | [Take A Ten Minute Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228) | [ten_minute_walk.js](/src/javascript/6kyu/ten_minute_walk.js) |
@@ -75,7 +75,7 @@
 | 6 | [Which Are In?](https://www.codewars.com/kata/550554fd08b86f84fe000a58) | [which_are_in.js](/src/javascript/6kyu/which_are_in.js) |
 | 6 | [Which Filetype Are You Using The Most?](https://www.codewars.com/kata/5c7254fcaccda64d01907710) | [which_filetype.js](/src/javascript/6kyu/which_filetype.js) |
 | 7 | [Driving License](https://www.codewars.com/kata/586a1af1c66d18ad81000134/) | [driving_license.js](/src/javascript/7kyu/driving_license.js) |
-| 7 | [Moves In Squared Strings (I)](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25) | [squared_strings_i.js](/src/javascript/7kyu/squared_strings_i.js) |
+| 7 | [Moves In Squared Strings (I)](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25) | [squared_string_i.js](/src/javascript/7kyu/squared_string_i.js) |
 | 7 | [Password Hashes](https://www.codewars.com/kata/54207f9677730acd490000d1/) | [password_hashes.js](/src/javascript/7kyu/password_hashes.js) |
 | 7 | [The Fusc Function Part 1](https://www.codewars.com/kata/570409d3d80ec699af001bf9) | [fusc_fn_p1.js](/src/javascript/7kyu/fusc_fn_p1.js) |
 | 7 | [Thinking & Testing: A and B?](https://www.codewars.com/kata/56d904db9963e9cf5000037d) | [thinking_testing_a_and_b.js](/src/javascript/7kyu/thinking_testing_a_and_b.js) |
