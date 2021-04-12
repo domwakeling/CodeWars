@@ -24,12 +24,15 @@
 | 6 | [Chess Fun #1](https://www.codewars.com/kata/5894134c8afa3618c9000146) | [chess_fun_1.py](/src/python/6kyu/chess_fun_1.py) |
 | 6 | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [create_phone_number.py](/src/python/6kyu/create_phone_number.py) |
 | 6 | [Free Pizza](https://www.codewars.com/kata/595910299197d929a10005ae) | [free_pizza.py](/src/python/6kyu/free_pizza.py) |
+| 6 | [Format A String Of Names](https://www.codewars.com/kata/53368a47e38700bd8300030d) | [format_names.py](/src/python/6kyu/format_names.py) |
 | 6 | [HTML Element Generator](https://www.codewars.com/kata/5e7837d0262211001ecf04d7) | [html_element_generator.py](/src/python/6kyu/html_element_generator.py) |
 | 6 | [Most Requent Weekdays](https://www.codewars.com/kata/56eb16655250549e4b0013f4) | [most_frequent_weekday.py](/src/python/6kyu/most_frequent_weekday.py) |
 | 6 | [Read The Time](https://www.codewars.com/kata/5c2b4182ac111c05cf388858) | [read_the_time.py](/src/python/6kyu/read_the_time.py) |
 | 6 | [Salesman's Travel](https://www.codewars.com/kata/56af1a20509ce5b9b000001e) | [salesmans_travel.py](/src/python/6kyu/salesmans_travel.py) |
+| 6 | [Save The Spice Harvester](https://www.codewars.com/kata/587d7544f1be39c48c000109) | [spice_harvester.py](/src/python/6kyu/spice_harvester.py) |
 | 6 | [Shorten IPv6 Address](https://www.codewars.com/kata/5735b2b413c205fe39000c68) | [shorten_ipv6.py](/src/python/6kyu/shorten_ipv6.py) |
 | 6 | [String Letter Counting](https://www.codewars.com/kata/59e19a747905df23cb000024) | [string_letter_counting.py](/src/python/6kyu/string_letter_counting.py) |
+| 6 | [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001) | [spinning_words.py](/src/python/6kyu/spinning_words.py) |
 | 6 | [Sum of Digits/Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [sum_of_digits.py](/src/python/6kyu/sum_of_digits.py) |
 | 6 | [Title Case](https://www.codewars.com/kata/5202ef17a402dd033c000009) | [title_case.py](/src/python/6kyu/title_case.py) |
 | 7 | [Find 2nd Largest Integer In Array](https://www.codewars.com/kata/55a58505cb237a076100004a/python) | [second_largest.py](/src/python/7kyu/second_largest.py) |
