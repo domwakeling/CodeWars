@@ -22,6 +22,7 @@
 | 6 | [Basic Encryption](https://www.codewars.com/kata/5862fb364f7ab46270000078) | [basic_encryption.py](/src/python/6kyu/basic_encryption.py) |
 | 6 | [Bouncing Balls](https://www.codewars.com/kata/5544c7a5cb454edb3c000047) | [bouncing_balls.py](/src/python/6kyu/bouncing_balls.py) |
 | 6 | [Chess Fun #1](https://www.codewars.com/kata/5894134c8afa3618c9000146) | [chess_fun_1.py](/src/python/6kyu/chess_fun_1.py) |
+| 6 | [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [create_phone_number.py](/src/python/6kyu/create_phone_number.py) |
 | 6 | [Free Pizza](https://www.codewars.com/kata/595910299197d929a10005ae) | [free_pizza.py](/src/python/6kyu/free_pizza.py) |
 | 6 | [HTML Element Generator](https://www.codewars.com/kata/5e7837d0262211001ecf04d7) | [html_element_generator.py](/src/python/6kyu/html_element_generator.py) |
 | 6 | [Most Requent Weekdays](https://www.codewars.com/kata/56eb16655250549e4b0013f4) | [most_frequent_weekday.py](/src/python/6kyu/most_frequent_weekday.py) |
@@ -30,6 +31,7 @@
 | 6 | [Shorten IPv6 Address](https://www.codewars.com/kata/5735b2b413c205fe39000c68) | [shorten_ipv6.py](/src/python/6kyu/shorten_ipv6.py) |
 | 6 | [String Letter Counting](https://www.codewars.com/kata/59e19a747905df23cb000024) | [string_letter_counting.py](/src/python/6kyu/string_letter_counting.py) |
 | 6 | [Sum of Digits/Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00) | [sum_of_digits.py](/src/python/6kyu/sum_of_digits.py) |
+| 6 | [Title Case](https://www.codewars.com/kata/5202ef17a402dd033c000009) | [title_case.py](/src/python/6kyu/title_case.py) |
 | 7 | [Find 2nd Largest Integer In Array](https://www.codewars.com/kata/55a58505cb237a076100004a/python) | [second_largest.py](/src/python/7kyu/second_largest.py) |
 
 <br />
